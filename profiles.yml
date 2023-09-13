@@ -11,3 +11,4 @@ jaffle_shop:
       schema: cargowise_dk_wrld
       threads: 4
       type: fabric
+      trust_cert: false
