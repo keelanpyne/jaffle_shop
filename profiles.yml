@@ -4,7 +4,7 @@ jaffle_shop:
   target: fabric-dev
   outputs:    
     fabric-dev:
-      authentication: ActiveDirectoryIntegrated
+      authentication: CLI
       database: WAREHOUSE
       driver: ODBC Driver 18 for SQL Server
       host: akvrvmas2c4uhgg6sauqhzjzea-n4ww3rltqhwebmhltwb4edzhni.datawarehouse.pbidedicated.windows.net
